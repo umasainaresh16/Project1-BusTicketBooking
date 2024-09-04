@@ -500,7 +500,7 @@ class tenali extends bus
 	void nonac(int a)
 	{
 		x1=a;
-		System.out.println("\t\t\t\tThe Buses available  are");
+		System.out.println("\t\t\t\tThe Buses available  are ");
 		System.out.println("\tS.N0  Names           \tTypes\tPrice\tTiming\n");
 		System.out.println("\t 1.   Vamsi    Travels\tSeater          650 \t10:20");
 		System.out.println("\t 2.   Purna    Travels\tSeater          800 \t09:35");
